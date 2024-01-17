@@ -1,2 +1,1 @@
-# algorithms
-Miscellaneous algorithms
+# Miscellaneous algorithms
